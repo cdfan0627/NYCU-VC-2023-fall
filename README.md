@@ -1,5 +1,5 @@
 ﻿# NYCU-VC-2023-fall
-HWs and final project of Video Compression 2023 Fall NYCU 
+Video Compression Assignment and Final Project at NYCU Fall 2023   
 ## HW1 Color Transform
 <img width="491" alt="image" src="https://github.com/cdfan0627/NYCU-VC-2023-fall/assets/144821204/a428d026-1342-40ca-b8cf-511555af16ad">
 
